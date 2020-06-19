@@ -1,5 +1,5 @@
 # Welcome to HS Matrix
-Here you will find solution of all short questions and short notes for HS112 STS course :stuck_out_tongue_winking_eye:
+Here you will find solution of all short questions and short notes for HS112 STS course.
 
 ## Enjoy !!
 
