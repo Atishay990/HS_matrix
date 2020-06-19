@@ -50,3 +50,37 @@ Short answer type questions
 9. [Mention three noble laurates and their contribution to STS.]
 10. [What are the pros and cons of open source?]
 11. [What is cybercrime? Give examples.]
+12. Define the term ‘Globalization’.
+13. What is Neocolonialism.
+14. What is the difference between ‘references’ and ‘bibliography’?
+15. What is difference between University and an Institute.
+16. Mention the pedagogical challenges imparting technical education.
+17. Mention the salient features of Professionalism.
+18. Mention the ethical dilemmas involved in a profession.
+19. Mention the agencies which impart scientific knowledge through folk forms.
+20. Mention the means of promoting scientific education in India.
+21. Mention the major incidents that were result of faulty engineering.
+22. Mention three science fiction writers and their works which have contributed to literature.
+23. Write briefly on Nebula Awards.
+24. What is the nature of Nehruvian Science?
+25. Distinguish between postmodern, postmodernity and postmodernism.
+26. What is “Flaming”.
+27. Mention the characteristics of Information Society.
+28. Explain the terms ‘Netiquette’, ‘Netizen’, and ‘Newbie’.
+29. Mention the three types of morality.
+30. Why engineering is also called a ‘quasi-profession’.
+
+Short Notes
+
+1. Difference between Gandhian and Nehruvian perspective
+2. Reception of Modern Science in Colonial India
+3. Science and Technology as Social Institutions
+4. Whistle-Blowing
+5. Karl Popper
+6. ICT as secondary science
+7. Change from web 2.0 to web 3.0
+8. E-commerce
+9. ‘Technophobia’ as a psychological effect of ICT
+10. Cyberlibertarianism
+11. Two models of professionalism
+12. Relationship between science and philosophy
