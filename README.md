@@ -72,15 +72,15 @@ Short answer type questions
 
 Short Notes
 
-1. Difference between Gandhian and Nehruvian perspective
-2. Reception of Modern Science in Colonial India
-3. Science and Technology as Social Institutions
-4. Whistle-Blowing
-5. Karl Popper
-6. ICT as secondary science
-7. Change from web 2.0 to web 3.0
-8. E-commerce
-9. ‘Technophobia’ as a psychological effect of ICT
-10. Cyberlibertarianism
-11. Two models of professionalism
-12. Relationship between science and philosophy
+1. [Difference between Gandhian and Nehruvian perspective](sn1.txt)
+2. [Reception of Modern Science in Colonial India](sn2.txt)
+3. [Science and Technology as Social Institutions](sn3.txt)
+4. [Whistle-Blowing](sn4.txt)
+5. [Karl Popper](sn5.txt)
+6. [ICT as secondary science](sn6.txt)
+7. [Change from web 2.0 to web 3.0](sn7.txt)
+8. [E-commerce](sn8.txt)
+9. [‘Technophobia’ as a psychological effect of ICT](sn9.txt)
+10.[Cyberlibertarianism](sn10.txt)
+11.[Two models of professionalism](sn11.txt)
+12.[Relationship between science and philosophy](sn12.txt)
