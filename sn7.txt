@@ -1,0 +1,51 @@
+Web technology refers to the means by which computers communicate with each other using
+markup languages and multimedia packages. 
+Web 2.0
+Web 2.0 is defined that the second generation of the www( World Wide Web) that is focused on the
+capability for public to contribute information online using Web-based communities, social media
+etc.
+Advantages:
+Available at anywhere, any time and any place.
+User friendly.
+Can create vibrant learning communities.
+Ease of practice.
+Selection of media.
+Beginners can actively be concerned in knowledge structure.
+Real-time discussion.
+Up to date current information
+User can communicate around the world with a nominal cost.
+Limitations:
+Increase level of spamming specially on comments and replay sections
+Lack of good filters
+Threat of getting wrong information
+Too many fake ID’s and spammers
+Web 2.0 Tools:
+Blog, RSS ,Wiki ,Instant Messaging ,Social Networking ,Social Bookmarking ,Social Media Marketing
+,Podcasts ,Web Mashups
+Web 3.0
+Web 3.0 is defined that the third generation of the www( World Wide Web) also known as semantic
+web. The basic idea of web 3.0 is to define structure data and link them in order to more effective
+discovery, automation, integration, and reuse across various applications.
+Advantages:
+Web 3.0 encourages Creativity and Innovation
+Web 3.0 promotes Factor of Globalization Phenomena
+Enhances Customer Satisfaction
+Helps to Organize Collaboration in Social Web
+Encourages Factor of Globalization Phenomena 
+Improves Data Management
+Stimulates Creativity and Innovation
+Supports accessibility of mobile Internet
+Limitations:
+11. Difference between Web 2.0 to Web 3.0
+Following are the differences of Web 2.0 to Web 3.0 which are as follows:-
+S. No. Web 2.0 Web 3.0
+1. The Social Web The Semantic Web
+2. Tim O’Reilly Tim Berners Lee
+3. Read and write web Read, write and execute web
+4. Interaction Immersion
+5. Billion of Users Trillion of Users
+6. Participation Understanding itself
+7. Connect people Connect knowledge
+8. The Community Web The Semantic Web
+9. Google scholar, Book search Semantic Digital Libraries
+Bi-Directional Multi user virtual environment 
