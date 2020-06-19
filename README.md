@@ -39,11 +39,11 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 Short answer type questions
 
 
-1. [Mention 3 principles of industrialization.]
-2. [What is the difference between modernism and postmodernism.]
-3. [Mention the names of journals in the field of STS.]
-4. [Mention the features of Post-Industrial society.]
-5. [What is the difference between capitalism and socialism.]
+1. [Mention 3 principles of industrialization.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
+2. [What is the difference between modernism and postmodernism.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
+3. [Mention the names of journals in the field of STS.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
+4. [Mention the features of Post-Industrial society.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
+5. [What is the difference between capitalism and socialism.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
 6. [What are the characteristics of science.]
 7. [Define the concept of sociological literacy.]
 8. [Define the concept of ‘Worldviews’.]
