@@ -1,0 +1,18 @@
+The concept of cybercrime refers to illegal or illicit computer-mediated activities undertaken through
+the use of global electronic networks.
+ ■ Cybercrimes are not simply acts which are labelled criminal because they happen to involve
+computers. Rather, they primarily refer to activities which are only made possible through the use of ICTs. 
+ ■ Computer network break-ins, where hackers infiltrate computer systems and networks to steal
+data or undertake acts of sabotage such as planting viruses or trojans
+ ■ Industrial espionage, undertaken to obtain ‘trade secrets’, such as information about competitors’
+product development or marketing strategies, and increasingly conducted by hacking into commercial
+computer systems;
+ ■ Software piracy , which results from the capture of valuable computer code;
+ ■ Fraud, rapidly becoming a significant feature of online commerce and including misrepresented
+or undelivered goods, specious cyberspace business opportunities, and especially credit card fraud;
+ ■ Email bombing, the process whereby software is written that will instruct a computer to bombard
+an electronic address with email, flooding the recipient’s personal account and thereby threatening to crash
+the system
+ ■ Password sniffers, software programs which challenge the security
+ ■ safeguards of computer networks by monitoring and recording users’ identities and passwords,
+allowing impersonators to access restricted files and documents;
