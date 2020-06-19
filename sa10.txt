@@ -1,0 +1,12 @@
+Pros of open source
+ •Collaboration and customizability
+ • Results in lower costs
+ • Coders motivate the development of open source software
+ • flexibility and provide scope for original developer and community
+ • globalization of market
+ Cons of Open source
+ •open sources includes only individuals having technical expertise.
+ • requires contribution from multiple developers
+ • Not successful in long run
+ • licensing, patents and documentation
+ • development my become stagnant due to adequate support
