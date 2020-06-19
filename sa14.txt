@@ -1,0 +1,5 @@
+Bibliography. A full list of books and other material used in the preparation of a report. Unlike a
+reference section, it may also include publications not referred to in the report, but considered potentially
+valuable or of interest to readers References.
+ References. A section of a report which provides full details of publications mentioned in the
+text, or from which extracts have been quoted Bibliography.
