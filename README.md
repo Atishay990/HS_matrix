@@ -35,3 +35,18 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Short answer type questions
+
+
+1. [Mention 3 principles of industrialization.]
+2. [What is the difference between modernism and postmodernism.]
+3. [Mention the names of journals in the field of STS.]
+4. [Mention the features of Post-Industrial society.]
+5. [What is the difference between capitalism and socialism.]
+6. [What are the characteristics of science.]
+7. [Define the concept of sociological literacy.]
+8. [Define the concept of ‘Worldviews’.]
+9. [Mention three noble laurates and their contribution to STS.]
+10. [What are the pros and cons of open source?]
+11. [What is cybercrime? Give examples.]
