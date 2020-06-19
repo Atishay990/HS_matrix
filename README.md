@@ -40,35 +40,35 @@ Short answer type questions
 
 
 1. [Mention 3 principles of industrialization.](sa1.txt)
-2. [What is the difference between modernism and postmodernism.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
-3. [Mention the names of journals in the field of STS.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
-4. [Mention the features of Post-Industrial society.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
-5. [What is the difference between capitalism and socialism.](https://github.com/Atishay990/HS_matrix/edit/master/README.md)
-6. [What are the characteristics of science.]
-7. [Define the concept of sociological literacy.]
-8. [Define the concept of ‘Worldviews’.]
-9. [Mention three noble laurates and their contribution to STS.]
-10. [What are the pros and cons of open source?]
-11. [What is cybercrime? Give examples.]
-12. Define the term ‘Globalization’.
-13. What is Neocolonialism.
-14. What is the difference between ‘references’ and ‘bibliography’?
-15. What is difference between University and an Institute.
-16. Mention the pedagogical challenges imparting technical education.
-17. Mention the salient features of Professionalism.
-18. Mention the ethical dilemmas involved in a profession.
-19. Mention the agencies which impart scientific knowledge through folk forms.
-20. Mention the means of promoting scientific education in India.
-21. Mention the major incidents that were result of faulty engineering.
-22. Mention three science fiction writers and their works which have contributed to literature.
-23. Write briefly on Nebula Awards.
-24. What is the nature of Nehruvian Science?
-25. Distinguish between postmodern, postmodernity and postmodernism.
-26. What is “Flaming”.
-27. Mention the characteristics of Information Society.
-28. Explain the terms ‘Netiquette’, ‘Netizen’, and ‘Newbie’.
-29. Mention the three types of morality.
-30. Why engineering is also called a ‘quasi-profession’.
+2. [What is the difference between modernism and postmodernism.](sa2.txt)
+3. [Mention the names of journals in the field of STS.](sa3.txt)
+4. [Mention the features of Post-Industrial society.](sa4.txt)
+5. [What is the difference between capitalism and socialism.](sa5.txt)
+6. [What are the characteristics of science.](sa6.txt)
+7. [Define the concept of sociological literacy.](sa7.txt)
+8. [Define the concept of ‘Worldviews’.](sa8.txt)
+9. [Mention three noble laurates and their contribution to STS.](sa9.txt)
+10. [What are the pros and cons of open source?](sa10.txt)
+11. [What is cybercrime? Give examples.](sa11.txt)
+12. Define the term ‘Globalization’.(sa12.txt)
+13. What is Neocolonialism.(sa13.txt)
+14. What is the difference between ‘references’ and ‘bibliography’?(sa14.txt)
+15. What is difference between University and an Institute.(sa15.txt)
+16. Mention the pedagogical challenges imparting technical education.(sa16.txt)
+17. Mention the salient features of Professionalism.(sa17.txt)
+18. Mention the ethical dilemmas involved in a profession.(sa18.txt)
+19. Mention the agencies which impart scientific knowledge through folk forms.(sa19.txt)
+20. Mention the means of promoting scientific education in India.(sa20.txt)
+21. Mention the major incidents that were result of faulty engineering.(sa21.txt)
+22. Mention three science fiction writers and their works which have contributed to literature.(sa22.txt)
+23. Write briefly on Nebula Awards.(sa23.txt)
+24. What is the nature of Nehruvian Science?(sa24.txt)
+25. Distinguish between postmodern, postmodernity and postmodernism.(sa25.txt)
+26. What is “Flaming”.(sa26.txt)
+27. Mention the characteristics of Information Society.(sa27.txt)
+28. Explain the terms ‘Netiquette’, ‘Netizen’, and ‘Newbie’.(sa28.txt)
+29. Mention the three types of morality.(sa29.txt)
+30. Why engineering is also called a ‘quasi-profession’.(sa30.txt)
 
 Short Notes
 
