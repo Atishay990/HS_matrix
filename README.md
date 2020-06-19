@@ -1,7 +1,7 @@
-## Welcome to HS Matrix
-Here you will find solution of all short questions for HS112 STS course :stuck_out_tongue_closed_eyes:
+# Welcome to HS Matrix
+Here you will find solution of all short questions for HS112 STS course :stuck_out_tongue_winking_eye:
 
-# Enjoy !!
+## Enjoy !!
 
 Short answer type questions
 
