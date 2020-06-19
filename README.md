@@ -1,9 +1,9 @@
 # Welcome to HS Matrix
-Here you will find solution of all short questions for HS112 STS course :stuck_out_tongue_winking_eye:
+Here you will find solution of all short questions and short notes for HS112 STS course :stuck_out_tongue_winking_eye:
 
 ## Enjoy !!
 
-Short answer type questions
+### Short answer type questions
 
 
 1. [Mention 3 principles of industrialization.](sa1.txt)
@@ -37,7 +37,7 @@ Short answer type questions
 29. [Mention the three types of morality.](sa29.txt)
 30. [Why engineering is also called a ‘quasi-profession’.](sa30.txt)
 
-Short Notes
+### Short Notes
 
 1. [Difference between Gandhian and Nehruvian perspective](sn1.txt)
 2. [Reception of Modern Science in Colonial India](sn2.txt)
